@@ -1,2 +1,3 @@
 # Cassandra_Kafka_Pipeline
 # Cassandra_Kafka
+Primary objective of the project is to establish a real-time data pipeline for managing e-commerce data efficiently. To achieve this, two key technologies, Apache Kafka and Apache Cassandra, are utilized. The process involves the ingestion of data from a CSV file with the assistance of a Kafka producer, subsequent transformation of this data employing a Kafka consumer, and, ultimately, the storage of the processed information within a Cassandra table. This setup ensures a streamlined and real-time flow of e-commerce data, enabling businesses to make informed decisions and enhance their operations.
